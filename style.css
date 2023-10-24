@@ -1,7 +1,7 @@
 /*Colors and fonts*/
 
 body {
- background-color: white;
+ background-color: pink;
  color: rgb(50, 50, 50, 1.0);
  font-family: Helvetica;
  font-size: 17px;
@@ -10,11 +10,11 @@ h1, h2, h3 {
   font-family: courier;
 }
 h1 {
-  color: red;
+  color: purple;
   font-size: 32px;
 }
 h2 {
-  color: rgb(100, 100, 100, 1.0);
+  color: rgb(49.8,0,100,1.0);
   font-size: 24px;
   font-weight: lighter;
 }
@@ -86,7 +86,7 @@ a:hover {
 }
 .list-inline i {
   font-size: 45px;
-  color: red;
+  color: purple;
 }
 .list-inline i:hover {
   color: black;
